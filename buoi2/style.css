@@ -1,0 +1,12 @@
+div
+{
+  width: 100px;
+  height:100px;
+  background-color: yellow;
+}
+a
+{
+  display: block;
+  width: 100px;
+  height: 100px;
+}

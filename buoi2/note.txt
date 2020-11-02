@@ -1,0 +1,32 @@
+Buổi 2
+*F12
+Elements: Xem code
+Styles : xem các thuộc tính css
+*Chia layout 
+-Div: Khối hình chữ nhật
++ Display : block
+-Span 
++display: inline
+
+*Css: 
+-background-color : màu nền 
+- 3 cách viết css 
++ inline: viết ngay ở thẻ
++ internal: viết qua cặp thẻ Style
++ external: link từ file .css
+Css sau ghi đè css trước
+Độ ưu tiên : inline > external > internal
+
+*Html có 2 chế độ :
+Strict mode: nghiêm ngặt 
+------: thích viết gì thì viết, tự trình duyệt sửa
+Các cặp attribute value ko quan trọng thứ tự
+
+*Git
+-Tạo github và đưa code lên github
+-Lần đầu để lấy code xài git clone
+git status : Show máy có sự thay đổi so với lần trước
+git add: <*, ., forder, path> * hoặc . thì add toàn bộ còn forder thì add file trong forder
+git reset : Bỏ đi tất cả các file được add, nếu có đường dẫn reset những cái trong đường dẫn
+git commit:  Viết 1 mô tả về những gì mình đã làm. example: git commit -m " Hoc git"
+git push origin <tên branch>: push code lên github 
